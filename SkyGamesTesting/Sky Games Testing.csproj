@@ -54,6 +54,10 @@
     <Compile Include="SupplierName.cs" />
     <Compile Include="tstCustomer.cs" />
     <Compile Include="clsStock.cs" />
+
+
+    <Compile Include="tstStaff.cs" />
+
     <Compile Include="tstStock.cs" />
   </ItemGroup>
   <ItemGroup>
